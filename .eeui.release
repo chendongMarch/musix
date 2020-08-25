@@ -1,0 +1,8 @@
+{
+	"name": "musix",
+	"appName": "musix",
+	"applicationID": "com.zfy.musix",
+	"bundleIdentifier": "com.zfy.musix",
+	"release": "2.3.11",
+	"location": "eeui"
+}
